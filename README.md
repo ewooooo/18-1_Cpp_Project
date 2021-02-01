@@ -57,3 +57,9 @@
   - Data_file.txt 에 저장 및 불러오기
 
 ![0](README/0.png)
+
+---
+## Developer:
+남은우 201512285@kyonggi.ac.kr
+
+이재빈 leejb8777@gmail.com
